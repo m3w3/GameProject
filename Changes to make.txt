@@ -1,0 +1,3 @@
+1) Display descriptions prior to gameplay (should be simple), just print everything at top
+2) Warn players that they made an illegal move, or picked an illegal game
+3) Better display for chopsticks game
