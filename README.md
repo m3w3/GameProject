@@ -1,2 +1,3 @@
 # GameProject
-Few games I've made
+Game 1: Subtract a Square (https://en.wikipedia.org/wiki/Subtract_a_square)
+Game 2: Chopsticks (https://en.wikipedia.org/wiki/Chopsticks_(hand_game))
